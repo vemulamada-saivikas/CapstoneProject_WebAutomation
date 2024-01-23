@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-23T15:32:31 IST" name="Suite" finished-at="2024-01-23T15:32:50 IST" duration-ms="19050">
+  <suite started-at="2024-01-23T15:07:52 IST" name="Suite" finished-at="2024-01-23T15:08:09 IST" duration-ms="17408">
     <groups>
     </groups>
-    <test started-at="2024-01-23T15:32:31 IST" name="Test" finished-at="2024-01-23T15:32:50 IST" duration-ms="19050">
+    <test started-at="2024-01-23T15:07:52 IST" name="Test" finished-at="2024-01-23T15:08:09 IST" duration-ms="17408">
       <class name="LaunchingApp.saucedemo">
-        <test-method signature="setup()[pri:0, instance:LaunchingApp.saucedemo@7c1e2a9e]" started-at="2024-01-23T15:32:31 IST" name="setup" finished-at="2024-01-23T15:32:50 IST" duration-ms="18954" status="PASS">
+        <test-method signature="setup()[pri:0, instance:LaunchingApp.saucedemo@394a2528]" started-at="2024-01-23T15:07:52 IST" name="setup" finished-at="2024-01-23T15:08:09 IST" duration-ms="17375" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
