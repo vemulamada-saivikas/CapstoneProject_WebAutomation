@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-23T15:32:31 IST" name="Suite" finished-at="2024-01-23T15:32:50 IST" duration-ms="19050">
+    <groups>
+    </groups>
+    <test started-at="2024-01-23T15:32:31 IST" name="Test" finished-at="2024-01-23T15:32:50 IST" duration-ms="19050">
+      <class name="LaunchingApp.saucedemo">
+        <test-method signature="setup()[pri:0, instance:LaunchingApp.saucedemo@7c1e2a9e]" started-at="2024-01-23T15:32:31 IST" name="setup" finished-at="2024-01-23T15:32:50 IST" duration-ms="18954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- LaunchingApp.saucedemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
