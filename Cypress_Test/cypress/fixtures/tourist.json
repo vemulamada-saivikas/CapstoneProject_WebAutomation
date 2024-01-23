@@ -1,0 +1,5 @@
+{
+    "tourist_name": "Vinith",
+    "tourist_email": " Math.random().toString(5).substring(2) + 'vinith@gmail.com' ",
+    "tourist_location": "Paris"
+}
